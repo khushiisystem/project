@@ -5,7 +5,7 @@
 
     <groupId>com.khushi</groupId>
     <artifactId>sample-java-tomcat-app</artifactId>
-    <version>3.10.1</version>
+    <version>3.4.0</version>
     <packaging>war</packaging>
 
     <name>Sample Java Tomcat App</name>
